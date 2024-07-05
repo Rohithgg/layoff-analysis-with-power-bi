@@ -9,3 +9,13 @@ In this repository, we analyze the impact of recent layoffs within our organizat
 ## Data source
 the data is from kaggle [https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022]
 
+## Analysis
+Outline the steps taken during the analysis:
+
+### Data Cleaning and Preprocessing:
+Remove duplicates, handle missing values, and format data.
+Explore the dataset to identify trends and patterns.
+By this we can make our work more frctionless and handle NULL errors.
+### Exploratory Data Analysis (EDA):
+Visualize employee demographics (age, tenure, department).
+Investigate reasons for layoffs (cost-cutting, restructuring, etc.).
